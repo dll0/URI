@@ -22,25 +22,14 @@ namespace _1005_Media1
             Calcule e imprima a variável MEDIA conforme exemplo abaixo, com 5 dígitos após o ponto decimal e com um espaço em branco antes e depois da igualdade. Utilize variáveis de dupla precisão (double) e como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
             */
 
-            double A = -1;
-            double B = -1;
+            double A = Convert.ToDouble(Console.ReadLine());
 
-            while(!(A > 0 && A <= 11))
-            {
-                A = Convert.ToDouble(Console.ReadLine());
-            }
+            double B = Convert.ToDouble(Console.ReadLine());
+            
 
-            while (!(B > 0 && A <= 11))
-            {
-                B = Convert.ToDouble(Console.ReadLine());
-            }
+            double MEDIA = (A * 3.5 + B * 7.5) / (7.5 + 3.5);
 
-            A *= .35;
-            B *= .75;
-
-            double MEDIA = (A + B) / 2;
-
-            Console.WriteLine("MEDIA = " + MEDIA.ToString("4F"));
+            Console.WriteLine("MEDIA = " + MEDIA.ToString("F5"));
         }
     }
 }
