@@ -29,7 +29,7 @@ namespace _1003_SomaSimples
             int B = Convert.ToInt32(Console.ReadLine());
             int SOMA = A + B;
 
-            Console.WriteLine($"SOMA = {SOMA}{Environment.NewLine}");
+            Console.WriteLine("SOMA = " + SOMA);
         }
     }
 }

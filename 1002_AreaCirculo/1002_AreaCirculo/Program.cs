@@ -26,9 +26,9 @@ namespace _1002_AreaCirculo
 
             double raio = Convert.ToDouble(Console.ReadLine());
             double pi = 3.14159;
-            double area = Math.Round(pi * Math.Pow(raio, 2), 4);
+            double area = pi * Math.Pow(raio, 2);
 
-            Console.WriteLine($"A={area}{Environment.NewLine}");
+            Console.WriteLine("A=" + area.ToString("F4"));
         }
     }
 }
