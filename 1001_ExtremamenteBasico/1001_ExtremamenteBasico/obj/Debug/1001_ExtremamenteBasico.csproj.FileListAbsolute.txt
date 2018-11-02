@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\bin\Debug\1001_ExtremamenteBasico.exe.config
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\bin\Debug\1001_ExtremamenteBasico.exe
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\bin\Debug\1001_ExtremamenteBasico.pdb
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\obj\Debug\1001_ExtremamenteBasico.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\obj\Debug\1001_ExtremamenteBasico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\obj\Debug\1001_ExtremamenteBasico.exe
+C:\Users\Matheus\source\repos\1001_ExtremamenteBasico\1001_ExtremamenteBasico\obj\Debug\1001_ExtremamenteBasico.pdb

@@ -1,0 +1,6 @@
+C:\Users\Matheus\source\repos\1003_SomaSimples\1003_SomaSimples\bin\Debug\1003_SomaSimples.exe.config
+C:\Users\Matheus\source\repos\1003_SomaSimples\1003_SomaSimples\bin\Debug\1003_SomaSimples.exe
+C:\Users\Matheus\source\repos\1003_SomaSimples\1003_SomaSimples\bin\Debug\1003_SomaSimples.pdb
+C:\Users\Matheus\source\repos\1003_SomaSimples\1003_SomaSimples\obj\Debug\1003_SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\1003_SomaSimples\1003_SomaSimples\obj\Debug\1003_SomaSimples.exe
+C:\Users\Matheus\source\repos\1003_SomaSimples\1003_SomaSimples\obj\Debug\1003_SomaSimples.pdb
