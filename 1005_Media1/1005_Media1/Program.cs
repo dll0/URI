@@ -23,10 +23,8 @@ namespace _1005_Media1
             */
 
             double A = Convert.ToDouble(Console.ReadLine());
-
             double B = Convert.ToDouble(Console.ReadLine());
             
-
             double MEDIA = (A * 3.5 + B * 7.5) / (7.5 + 3.5);
 
             Console.WriteLine("MEDIA = " + MEDIA.ToString("F5"));
