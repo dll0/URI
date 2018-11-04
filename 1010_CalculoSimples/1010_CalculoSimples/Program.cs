@@ -22,17 +22,17 @@ namespace _1010_CalculoSimples
             O valor deverá ser apresentado com 2 casas após o ponto.
             */
 
-            String[] valores = new string[2];
+            String pecas_1 = Console.ReadLine();
+            String pecas_2 = Console.ReadLine();
 
-            for (int i = 0; i < 2; i++)
-            {
-                valores[i] = Console.ReadLine();
-                //Terminar
-            }
+            pecas_1 = pecas_1.Replace(" ", "");
+            pecas_2 = pecas_1.Replace(" ", "");
 
-            int codigo1 = int.Parse(valores[0]);
-            int quant1 = int.Parse(valores[1]);
-            double preco1 = double.Parse(valores[2]);
+            int codigo_1 = Convert.ToInt32(pecas_1[0]);
+            int quantidade_1 = Convert.ToInt32(pecas_1[1]);
+            double preco_1 = Convert.ToDouble(pecas_1[2]);
+
+            Console.WriteLine(pecas_1 + ", " + pecas_2);
         }
     }
 }
